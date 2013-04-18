@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text1">Notification startup volume (speech)</string>
+    <string name="text2">Music startup volume</string>
+</resources>
