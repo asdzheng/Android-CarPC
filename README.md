@@ -1,4 +1,3 @@
-![Donate](https://raw.github.com/X-Sim/X-PID-Arduino-PID-motor-control/master/img/screenshot.jpg)
 ## Android Car-PC App ##
 ([Make a Micro Donation if you find this post usefull!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZXXJNRQW9QYAN))
 
@@ -8,7 +7,7 @@ access. For a landscape mode of your handy you should test the available landsca
 The App will go to lowest backlight after the ignition is off and after again 60 seconds it will go to standby without backlight.
 The sound volume will be set to default everytime you start the ingnition after more than 60 seconds of unpowered device.
 
-![Settings Window](https://raw.github.com/X-Sim/X-PID-Arduino-PID-motor-control/master/img/xpid1.jpg)
+![Settings Window](https://raw.github.com/sirnoname/Android-CarPC/master/img/screenshot.jpg)
 
 ### You will need for this project: ###
 - a handy/smartphone with android 2.3 and up
