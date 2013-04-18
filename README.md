@@ -25,4 +25,4 @@ The sound volume will be set to default everytime you start the ingnition after 
 6. Setup the init sound volume
 7. Setup the light sensor
 
-Thats all, now you can connect your H-Brige as described below and start X-Sim.
+Thats all!
